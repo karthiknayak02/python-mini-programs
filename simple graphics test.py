@@ -1,29 +1,3 @@
-#Name: Nayak
-#CS 115 Lab 4 Feedback Fall 2015
-#Section 15
-#Score   100 / 100 possible
-#Late: No.
-#Grading comments: Looks good. 
-#
-#Individual   42/42 pts
-#  input name          6/6 pts
-#  name as Text        6/6 pts
-#  5 different classes 6/6 pts
-#  3 different colors  6/6 pts
-#  prolog              6/6 pts
-#  documentation       6/6 pts
-#  getMouse/close      6/6 pts
-#Team          58/58 pts
-#  get the Points      8 pts
-#  get x's and y's     9 pts
-#  draw one line, 
-#     with circles    12 pts 
-#  draw the other line, 
-#     with circles    12 pts 
-#  draw intersection point   5 pts
-#  getMouse/close     6 pts
-#  Text information   6 pts
-
 """
 Design Prolog 
 Author:Karthik Nayak
